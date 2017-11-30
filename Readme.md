@@ -16,7 +16,7 @@
 | Period | School | Qualification |
 | --- | --- | --- |
 | 2002-2006 | City Univeraity Of Hong Kong | BSc (Hon) in Computer Science |
-| 2007-2010 | The Hong Kong Polytechnic University | MSc in Electronic and Information Engineering (Distinction) |
+| 2008-2010 | The Hong Kong Polytechnic University | MSc in Electronic and Information Engineering (Distinction) |
 
 # Work Experience
 
