@@ -1,11 +1,15 @@
 # Information
 
-|  |  |
-|---|---|
-| Name | Ka Ming Chan |
-| Gender | Male |
-| DOB | 4th Aug 1983 |
-| Languages | <ul><li>Chinese (Cantonese) : Native</li><li>Chinese (Putonghua) : Fluent</li><li>English : Fluent</li></ul> |
+* ### Name
+  * Ka Ming Chan (陳家銘)
+* ### Gender
+  * Male
+* ### DOB
+  * 4th Aug 1983
+* ### Languages
+  * Chinese (Cantonese) : Native
+  * Chinese (Putonghua) : Fluent
+  * English : Fluent
 
 # Education
 
