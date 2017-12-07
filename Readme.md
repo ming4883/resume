@@ -10,6 +10,8 @@
   * Chinese (Cantonese) : Native
   * Chinese (Putonghua) : Fluent
   * English : Fluent
+* ### Contact
+  * Email : ming4883@gmail.com
 
 # Education
 
@@ -50,6 +52,7 @@
   * Familiar with common data structures and algorithms
   * Familiar with C++ 11 standard libraries
   * Familiar with C++ template techniques such as typelist, specialization, partial specialization ... etc
+  * Familiar with multithread / multiprocess programming
   * Experience in common C++ frameworks such as ASIO, QT
   * Familiar with test driven development and frameworks such unittest++, gtest ... etc
   * Familiar with cmake and various build systems
